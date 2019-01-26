@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181111",
-		"title": "心存主道：传道书（8）（郑子民）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181111.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 15,
-		"artistName": "空中辅导",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201846/cc20181111/cc/cc181111.mp3",
-		"id": 15181111
-	},
-	{
 		"time": "20181112",
 		"title": "每周辅导教室：婚约之前（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/cc/cc181112.mp3",
@@ -944,5 +933,16 @@
 		"artistName": "空中辅导",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cc20190127/cc/cc190127.mp3",
 		"id": 15190127
+	},
+	{
+		"time": "20190126",
+		"title": "乐哉家庭：如何教养孩童（4）（霍玉莲博士）",
+		"downUrl": "http://txly2.net/ly/audio/2019/cc/cc190126.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 15,
+		"artistName": "空中辅导",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cc20190126/cc/cc190126.mp3",
+		"id": 15190126
 	}
 ]
