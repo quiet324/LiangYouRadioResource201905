@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "从布道到培训：长老的资格（主持：卢文、周虹）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181026.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ds20181026/ds/ds181026.mp3",
-		"id": 46181026
-	},
-	{
 		"time": "20181027",
 		"title": "从布道到培训：务要忠心尽你本分（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181027.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/ds20190126/ds/ds190126.mp3",
 		"id": 46190126
+	},
+	{
+		"time": "20190127",
+		"title": "良院讲台：得胜困境的秘诀（撒上17章；讲员：林诚）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ds20190127/ds/ds190127.mp3",
+		"id": 46190127
 	}
 ]
