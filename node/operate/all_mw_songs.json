@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "不住的祷告（路18:1-8）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181026.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181026/mw/mw181026.mp3",
-		"id": 30181026
-	},
-	{
 		"time": "20181027",
 		"title": "微小的开始（创46:1-7）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181027.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/mw20190126/mw/mw190126.mp3",
 		"id": 30190126
+	},
+	{
+		"time": "20190127",
+		"title": "作神流通活水的管子（约15:1-8）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190127.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190127/mw/mw190127.mp3",
+		"id": 30190127
 	}
 ]
