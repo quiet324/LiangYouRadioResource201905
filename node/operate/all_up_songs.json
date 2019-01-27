@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "教导儿女智财教育：第十课、自强不息（下）你有失去财务自由吗？",
-		"downUrl": "http://txly2.net/ly/audio/2018/up/up181026.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 20,
-		"artistName": "亲情不断电",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/up20181026/up/up181026.mp3",
-		"id": 20181026
-	},
-	{
 		"time": "20181029",
 		"title": "情绪与真理（1）“忧郁'”的普遍现象",
 		"downUrl": "http://txly2.net/ly/audio/2018/up/up181029.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "亲情不断电",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/up20190125/up/up190125.mp3",
 		"id": 20190125
+	},
+	{
+		"time": "20190128",
+		"title": "让青春风暴变成青春风采（13岁-18岁）（10）建立健康的自我形象；与父母促膝谈：石头里的乐音",
+		"downUrl": "http://txly2.net/ly/audio/2019/up/up190128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 20,
+		"artistName": "亲情不断电",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/up20190128/up/up190128.mp3",
+		"id": 20190128
 	}
 ]
