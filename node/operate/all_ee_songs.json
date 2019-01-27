@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181027",
-		"title": "用智慧演绎人生：如何处患难而不惊？",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181027.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/ee20181027/ee/ee181027.mp3",
-		"id": 29181027
-	},
-	{
 		"time": "20181028",
 		"title": "智慧语录：微生物学之父路易‧巴斯德的信仰格言；神的叮咛我最爱：真假师傅之辨",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181028.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190127/ee/ee190127.mp3",
 		"id": 29190127
+	},
+	{
+		"time": "20190128",
+		"title": "寻找生命的真光：琼妮再次遭遇癌症，神的恩典一次只够活一天？",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190128/ee/ee190128.mp3",
+		"id": 29190128
 	}
 ]
