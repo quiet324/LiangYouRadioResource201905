@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "信仰大擂台：基督徒都是好人吗？──不认识上帝的人会给基督徒贴上“好人”的标签；但在上帝的眼中，人人都是罪人，没有真正的好人，因此都需要耶稣基督的救恩，才能恢复上帝眼中人该有的荣耀。不过基督徒作为蒙恩的罪人，如果时刻尊主为大，遵行神的话语，活出神爱的生命，在世人的眼中，必定是好人无疑。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181026.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/im20181026/im/im181026.mp3",
-		"id": 14181026
-	},
-	{
 		"time": "20181029",
 		"title": "信仰大擂台：人为何不愿相信上帝──有一群羊，一只闯下山崖摔死，其它羊竟然接二连三跟着跳下……多数人不愿认识和相信上帝都同样是羊群效应的结果，人若跳出思维局限，就会有不一样的看见。当然最根本的原因，归根结底还是因为人的罪性和不可避免的犯罪，导致人的生命与上帝隔绝、绝缘……",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181029.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/im20190125/im/im190125.mp3",
 		"id": 14190125
+	},
+	{
+		"time": "20190128",
+		"title": "心磁场大平台：一个需要认真思考的问题──人生的方向与目标是快乐吗？如何才能有真正的快乐？宗教与信仰有什么区别？归根究底，我们的信仰，究竟是流于文化习俗、宗教习惯？还是真实地与真神上帝建立了紧密关系？这是一个人人都需要认真严肃思考的问题。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/im20190128/im/im190128.mp3",
+		"id": 14190128
 	}
 ]
