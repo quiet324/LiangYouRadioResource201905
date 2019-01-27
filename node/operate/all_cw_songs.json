@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "赞美旋律：门德尔松第二号交响曲《赞美颂歌》（3）",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181026.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/cw20181026/cw/cw181026.mp3",
-		"id": 51181026
-	},
-	{
 		"time": "20181029",
 		"title": "生命之歌：白利士《你的光当照耀》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181029.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/cw20190125/cw/cw190125.mp3",
 		"id": 51190125
+	},
+	{
+		"time": "20190128",
+		"title": "生命之歌：克里特的安德烈《慎勿玩驰歌》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cw20190128/cw/cw190128.mp3",
+		"id": 51190128
 	}
 ]
