@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181027",
-		"title": "末后七灾之序幕（1）（启15:1-4）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th181027.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/th20181027/th/th181027.mp3",
-		"id": 32181027
-	},
-	{
 		"time": "20181028",
 		"title": "以色列人心灵的重整（3）（尼9:9-15）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181028.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/th20190127/th/th190127.mp3",
 		"id": 32190127
+	},
+	{
+		"time": "20190128",
+		"title": "约瑟二次会见兄弟们（3）（创43:26-34）",
+		"downUrl": "http://txly2.net/ly/audio/2019/th/th190128.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/th20190128/th/th190128.mp3",
+		"id": 32190128
 	}
 ]
