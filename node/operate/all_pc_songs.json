@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181026",
-		"title": "皮小弟与妙阿姨：名画拍卖会",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181026.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/pc20181026/pc/pc181026.mp3",
-		"id": 17181026
-	},
-	{
 		"time": "20181027",
 		"title": "圣经好好听：满有智慧的国王",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181027.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201904/pc20190126/pc/pc190126.mp3",
 		"id": 17190126
+	},
+	{
+		"time": "20190128",
+		"title": "你来品品理：小猴子大冒险",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190128.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/pc20190128/pc/pc190128.mp3",
+		"id": 17190128
 	}
 ]
