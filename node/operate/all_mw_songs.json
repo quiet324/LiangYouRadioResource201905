@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181027",
-		"title": "微小的开始（创46:1-7）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181027.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201843/mw20181027/mw/mw181027.mp3",
-		"id": 30181027
-	},
-	{
 		"time": "20181028",
 		"title": "神信任我们（申2:1-8）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181028.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190127/mw/mw190127.mp3",
 		"id": 30190127
+	},
+	{
+		"time": "20190128",
+		"title": "让神来调音（林后11:2-15）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190128.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190128/mw/mw190128.mp3",
+		"id": 30190128
 	}
 ]
