@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181028",
-		"title": "神信任我们（申2:1-8）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181028.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/mw20181028/mw/mw181028.mp3",
-		"id": 30181028
-	},
-	{
 		"time": "20181029",
 		"title": "神恩典的作为（诗78:1-8）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181029.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190128/mw/mw190128.mp3",
 		"id": 30190128
+	},
+	{
+		"time": "20190129",
+		"title": "必不动摇（诗46篇）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190129/mw/mw190129.mp3",
+		"id": 30190129
 	}
 ]
