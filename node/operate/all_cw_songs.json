@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181029",
-		"title": "生命之歌：白利士《你的光当照耀》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181029.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181029/cw/cw181029.mp3",
-		"id": 51181029
-	},
-	{
 		"time": "20181030",
 		"title": "弹指之间：《他》、《恩典之洋》、《耶稣恩友》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181030.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cw20190128/cw/cw190128.mp3",
 		"id": 51190128
+	},
+	{
+		"time": "20190129",
+		"title": "弹指之间：我的专属歌单──《每一天我需要你》、《我永远的救主》、《灵里生活》、《活在你面前》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190129.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cw20190129/cw/cw190129.mp3",
+		"id": 51190129
 	}
 ]
