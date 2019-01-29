@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181029",
-		"title": "好得无比，每一天：爱心说实话（弗4:15）；天路历程（16）；我爱背金句：赛6:8",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181029.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181029/dy/dy181029.mp3",
-		"id": 24181029
-	},
-	{
 		"time": "20181030",
 		"title": "好得无比，每一天：电子空间（雅4:17）；天路历程（17）；我爱背金句：赛6:8",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181030.mp3",
@@ -723,5 +712,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/dy20190128/dy/dy190128.mp3",
 		"id": 24190128
+	},
+	{
+		"time": "20190129",
+		"title": "每日天粮：窄门小路（太7:14）；宣教足迹在广东佛山（3）；我爱背金句：诗15:1-2",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190129.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/dy20190129/dy/dy190129.mp3",
+		"id": 24190129
 	}
 ]
