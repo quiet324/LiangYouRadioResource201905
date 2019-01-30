@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "天上的奖赏（1）",
-		"downUrl": "http://txly2.net/ly/audio/2018/it/it181031.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 41,
-		"artistName": "与神同行",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/it20181031/it/it181031.mp3",
-		"id": 41181031
-	},
-	{
 		"time": "20181101",
 		"title": "天上的奖赏（2）",
 		"downUrl": "http://txly2.net/ly/audio/2018/it/it181101.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "与神同行",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/it20190130/it/it190130.mp3",
 		"id": 41190130
+	},
+	{
+		"time": "20190131",
+		"title": "成功的思想（2）",
+		"downUrl": "http://txly2.net/ly/audio/2019/it/it190131.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 41,
+		"artistName": "与神同行",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/it20190131/it/it190131.mp3",
+		"id": 41190131
 	}
 ]
