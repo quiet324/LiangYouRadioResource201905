@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "信仰大擂台：从仇恨到饶恕──他从小就活在父亲的辱骂、殴打、轻视的眼光下，中学时期因此患上抑郁症，而父亲却叫他去死，仇恨不断在心里滋长……信主后，他学会了用基督的眼光来看待父亲，不仅不再恨，还觉得父亲很可怜。学会饶恕的他，甚至为父亲祷告，期盼有一天能被神改变。",
-		"downUrl": "http://txly2.net/ly/audio/2018/im/im181031.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 14,
-		"artistName": "i关怀心磁场",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/im20181031/im/im181031.mp3",
-		"id": 14181031
-	},
-	{
 		"time": "20181101",
 		"title": "信仰大擂台：分辨真假基督信仰──真币摸多了，识别假币就很容易，同样，真理（圣经）看多了，假道理一来立刻显形。有道是：假的真不了，真的也一定假不了。",
 		"downUrl": "http://txly2.net/ly/audio/2018/im/im181101.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "i关怀心磁场",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/im20190130/im/im190130.mp3",
 		"id": 14190130
+	},
+	{
+		"time": "20190131",
+		"title": "黄昏下午茶：从虚荣挑剔的择偶标准回归爱情的本质──她曾经挑剔、清高、虚荣、浮华，极度渴望爱，又极度没有安全感，渴望从男朋友身上得到爱和满足，却不断被伤害，也不断伤害人。在心底深处，她不相信会有永恒的不变的爱……直到遇到祂和他。",
+		"downUrl": "http://txly2.net/ly/audio/2019/im/im190131.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 14,
+		"artistName": "i关怀心磁场",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/im20190131/im/im190131.mp3",
+		"id": 14190131
 	}
 ]
