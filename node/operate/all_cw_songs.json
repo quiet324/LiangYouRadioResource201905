@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "心歌心曲：艾薇儿《水面之上》",
-		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181031.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 51,
-		"artistName": "齐来颂扬",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/cw20181031/cw/cw181031.mp3",
-		"id": 51181031
-	},
-	{
 		"time": "20181101",
 		"title": "来吧赞美：《众城门抬起头》、《主的喜乐是我力量》、《那双看不见的手》、《信心的旅途》",
 		"downUrl": "http://txly2.net/ly/audio/2018/cw/cw181101.mp3",
@@ -724,5 +713,16 @@
 		"artistName": "齐来颂扬",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cw20190130/cw/cw190130.mp3",
 		"id": 51190130
+	},
+	{
+		"time": "20190131",
+		"title": "来吧赞美：迎风展翅（2）御风而行──《歌颂复活主》、《展开清晨的翅膀》、《因你与我同行》、《注目看耶稣》",
+		"downUrl": "http://txly2.net/ly/audio/2019/cw/cw190131.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 51,
+		"artistName": "齐来颂扬",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/cw20190131/cw/cw190131.mp3",
+		"id": 51190131
 	}
 ]
