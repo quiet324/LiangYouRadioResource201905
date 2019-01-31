@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"title": "为神建立家室：神了解我们",
-		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181101.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 18,
-		"artistName": "我们的时间",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ut20181101/ut/ut181101.mp3",
-		"id": 18181101
-	},
-	{
 		"time": "20181102",
 		"title": "生活百花园：求就得着",
 		"downUrl": "http://txly2.net/ly/audio/2018/ut/ut181102.mp3",
@@ -710,5 +699,16 @@
 		"artistName": "我们的时间",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ut20190131/ut/ut190131.mp3",
 		"id": 18190131
+	},
+	{
+		"time": "20190201",
+		"title": "生活百花园：我们有能力",
+		"downUrl": "http://txly2.net/ly/audio/2019/ut/ut190201.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 18,
+		"artistName": "我们的时间",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ut20190201/ut/ut190201.mp3",
+		"id": 18190201
 	}
 ]
