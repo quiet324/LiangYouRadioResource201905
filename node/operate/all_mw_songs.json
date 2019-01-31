@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "神知道我们的劳碌（王上19:1-8）",
-		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181031.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 30,
-		"artistName": "旷野吗哪",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/mw20181031/mw/mw181031.mp3",
-		"id": 30181031
-	},
-	{
 		"time": "20181101",
 		"title": "接受神的应许（罗4:9-16）",
 		"downUrl": "http://txly2.net/ly/audio/2018/mw/mw181101.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "旷野吗哪",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190131/mw/mw190131.mp3",
 		"id": 30190131
+	},
+	{
+		"time": "20190201",
+		"title": "这事出于我（王上12:13-24）",
+		"downUrl": "http://txly2.net/ly/audio/2019/mw/mw190201.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 30,
+		"artistName": "旷野吗哪",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/mw20190201/mw/mw190201.mp3",
+		"id": 30190201
 	}
 ]
