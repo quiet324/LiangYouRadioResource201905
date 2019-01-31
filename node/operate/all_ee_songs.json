@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "智慧语录：伽利略的信仰格言；诗情细语话人生：害羞的艾先生",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181031.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ee20181031/ee/ee181031.mp3",
-		"id": 29181031
-	},
-	{
 		"time": "20181101",
 		"title": "说个故事给你听：我的故事——给刚步入社会的女孩们的一些警示",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181101.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190131/ee/ee190131.mp3",
 		"id": 29190131
+	},
+	{
+		"time": "20190201",
+		"title": "智慧语录：是谁在陪伴你生命的成长？拥抱小语：妻子带领丈夫信主的故事；亮丽人生不是梦：界限发展",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190201.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190201/ee/ee190201.mp3",
+		"id": 29190201
 	}
 ]
