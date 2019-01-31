@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "雅各动身离开巴旦亚兰（5）（创31:43-55）",
-		"downUrl": "http://txly2.net/ly/audio/2018/th/th181031.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 32,
-		"artistName": "真理之光",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/th20181031/th/th181031.mp3",
-		"id": 32181031
-	},
-	{
 		"time": "20181101",
 		"title": "雅各从米斯巴到毗努伊勒（1）（创32:1-8）",
 		"downUrl": "http://txly2.net/ly/audio/2018/th/th181101.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "真理之光",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/th20190131/th/th190131.mp3",
 		"id": 32190131
+	},
+	{
+		"time": "20190201",
+		"title": "人子救主的警戒与教导（2）（路12:8-12）",
+		"downUrl": "http://txly2.net/ly/audio/2019/th/th190201.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 32,
+		"artistName": "真理之光",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/th20190201/th/th190201.mp3",
+		"id": 32190201
 	}
 ]
