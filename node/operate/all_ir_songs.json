@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181031",
-		"title": "节目推介：《拥抱每一天》、《迎风传颂》；赵群心语：《无尽恩典》等节目的更换原因；回应留言：江苏赵姊妹",
-		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181031.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 12,
-		"artistName": "i-Radio爱广播",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ir20181031/ir/ir181031.mp3",
-		"id": 12181031
-	},
-	{
 		"time": "20181101",
 		"title": "节目推介：《无限飞行号》、《i关怀心磁场》；我们是好夥伴：朱弟兄、吴姊妹来访",
 		"downUrl": "http://txly2.net/ly/audio/2018/ir/ir181101.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "i-Radio爱广播",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ir20190131/ir/ir190131.mp3",
 		"id": 12190131
+	},
+	{
+		"time": "20190201",
+		"title": "节目推介：《空中辅导》幸福人生规划预告、《真道分解》无酵节与逾越节；夥．热话题：林诚牧师年纪多大？怎样买孙大中讲道集？；回应听众：电话尾号1260听众",
+		"downUrl": "http://txly2.net/ly/audio/2019/ir/ir190201.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 12,
+		"artistName": "i-Radio爱广播",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ir20190201/ir/ir190201.mp3",
+		"id": 12190201
 	}
 ]
