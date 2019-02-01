@@ -1,15 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181101.mp3",
-		"duration": 3560,
-		"size": "28.5M",
-		"artistId": 24,
-		"artistName": "献上今天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/dy20181101/dy/dy181101.mp3",
-		"id": 24181101
-	},
-	{
 		"time": "20181102",
 		"title": "好得无比，每一天：地震之谜（珥2:30-31）；天路历程（20）；我爱背金句：赛 6:8（热线时间）",
 		"downUrl": "http://txly2.net/ly/audio/2018/dy/dy181102.mp3",
@@ -723,5 +713,16 @@
 		"artistName": "献上今天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/dy20190131/dy/dy190131.mp3",
 		"id": 24190131
+	},
+	{
+		"time": "20190201",
+		"title": "每日天粮：先求神国（太6:33）；健康咨询站（19）（主持：李重恩、周彩云；嘉宾： 陈医生）；我爱背金句：诗15:1-2",
+		"downUrl": "http://txly2.net/ly/audio/2019/dy/dy190201.mp3",
+		"duration": 3560,
+		"size": "28.5M",
+		"artistId": 24,
+		"artistName": "献上今天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/dy20190201/dy/dy190201.mp3",
+		"id": 24190201
 	}
 ]
