@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"title": "巨人的秘密：东晋官员吴隐之（下）",
-		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181101.mp3",
-		"duration": 860,
-		"size": "6.9M",
-		"artistId": 17,
-		"artistName": "爆米花",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/pc20181101/pc/pc181101.mp3",
-		"id": 17181101
-	},
-	{
 		"time": "20181102",
 		"title": "皮小弟与妙阿姨：三个愿望",
 		"downUrl": "http://txly2.net/ly/audio/2018/pc/pc181102.mp3",
@@ -867,5 +856,16 @@
 		"artistName": "爆米花",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/pc20190201/pc/pc190201.mp3",
 		"id": 17190201
+	},
+	{
+		"time": "20190202",
+		"title": "圣经好好听：监牢中的歌声",
+		"downUrl": "http://txly2.net/ly/audio/2019/pc/pc190202.mp3",
+		"duration": 860,
+		"size": "6.9M",
+		"artistId": 17,
+		"artistName": "爆米花",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/pc20190202/pc/pc190202.mp3",
+		"id": 17190202
 	}
 ]
