@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"title": "宣教心之路：宣教士职前心理评估（主持：姚谦、林诚）",
-		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181101.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 46,
-		"artistName": "晨曦讲座",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ds20181101/ds/ds181101.mp3",
-		"id": 46181101
-	},
-	{
 		"time": "20181102",
 		"title": "从布道到培训：罗马书大纲（主持：卢文、周虹）",
 		"downUrl": "http://txly2.net/ly/audio/2018/ds/ds181102.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "晨曦讲座",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ds20190201/ds/ds190201.mp3",
 		"id": 46190201
+	},
+	{
+		"time": "20190202",
+		"title": "从布道到培训：基督徒的生活标准（罗12:1-15:13；主持：卢文、杨天成）",
+		"downUrl": "http://txly2.net/ly/audio/2019/ds/ds190202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 46,
+		"artistName": "晨曦讲座",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ds20190202/ds/ds190202.mp3",
+		"id": 46190202
 	}
 ]
