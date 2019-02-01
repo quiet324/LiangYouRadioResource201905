@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20181101",
-		"title": "说个故事给你听：我的故事——给刚步入社会的女孩们的一些警示",
-		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181101.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 29,
-		"artistName": "拥抱每一天",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201844/ee20181101/ee/ee181101.mp3",
-		"id": 29181101
-	},
-	{
 		"time": "20181102",
 		"title": "智慧语录：科学信仰不冲突；拥抱小语：你的压力需要一个出口——90后男生买房记；亮丽人生不是梦：过犹不及——选择",
 		"downUrl": "http://txly2.net/ly/audio/2018/ee/ee181102.mp3",
@@ -1010,5 +999,16 @@
 		"artistName": "拥抱每一天",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190201/ee/ee190201.mp3",
 		"id": 29190201
+	},
+	{
+		"time": "20190202",
+		"title": "智慧语录：沉默的智慧；小单的探险笔记：要如何发明新工作？用智慧演绎人生：如何有效考核你的主管？",
+		"downUrl": "http://txly2.net/ly/audio/2019/ee/ee190202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 29,
+		"artistName": "拥抱每一天",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/ee20190202/ee/ee190202.mp3",
+		"id": 29190202
 	}
 ]
