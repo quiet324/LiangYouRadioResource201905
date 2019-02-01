@@ -1,16 +1,5 @@
 [
 	{
-		"time": "20180708",
-		"title": "引导孩子更卓越──不打不骂培育优秀孩子（5）",
-		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180708.mp3",
-		"duration": 1760,
-		"size": "14.1M",
-		"artistId": 1,
-		"artistName": "幸福满家园",
-		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201828/bf20180708/bf/bf180708.mp3",
-		"id": 1180708
-	},
-	{
 		"time": "20180714",
 		"title": "引导孩子更卓越──不打不骂培育优秀孩子（6）",
 		"downUrl": "http://txly2.net/ly/audio/2018/bf/bf180714.mp3",
@@ -624,5 +613,16 @@
 		"artistName": "幸福满家园",
 		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/bf20190127/bf/bf190127.mp3",
 		"id": 1190127
+	},
+	{
+		"time": "20190202",
+		"title": "看，圣经中的夫妻：亚伯拉罕与撒拉（1）；歌曲：《你是我心中最爱》、《越久越甘甜》",
+		"downUrl": "http://txly2.net/ly/audio/2019/bf/bf190202.mp3",
+		"duration": 1760,
+		"size": "14.1M",
+		"artistId": 1,
+		"artistName": "幸福满家园",
+		"path": "https://rawcdn.githack.com/quiet324/LiangYouRadioResource201905/bf20190202/bf/bf190202.mp3",
+		"id": 1190202
 	}
 ]
